@@ -1,0 +1,2 @@
+# midas
+Trading Algorithms
